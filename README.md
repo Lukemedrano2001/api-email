@@ -34,8 +34,8 @@ As seguintes configurações são necessárias para o envio de e-mails através 
 
 - spring.mail.host=sandbox.smtp.mailtrap.io
 - spring.mail.port=587
-- spring.mail.username=<username>
-- spring.mail.password=<password>
+- spring.mail.username=username
+- spring.mail.password=password
 - spring.mail.properties.mail.smtp.auth=true
 - spring.mail.properties.mail.smtp.starttls.enable=true
 
